@@ -33,6 +33,12 @@ export default function HomePage() {
         <li>
           <a href="/components/collection-grid">Collection Grid</a>
         </li>
+        <li>
+          <a href="/components/navbar">Navbar</a>
+        </li>
+        <li>
+          <a href="/components/section">Section</a>
+        </li>
       </ul>
     </div>
   );
